@@ -50,7 +50,7 @@ function love.update(dt)
 end
 
 
-]]
+
 
 --MOVING UP/DOWN/LEFT/RIGHT
 
@@ -90,4 +90,4 @@ function love.load()
    end
   
   end
-  
+]]
